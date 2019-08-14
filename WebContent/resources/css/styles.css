@@ -1,0 +1,21 @@
+h1{
+	text-transform: uppercase;
+	color: silver;
+	font-size: 38px;
+	padding: 5px;
+}
+ 
+.border {
+	border-radius: 20px; 
+	color:graytext;
+	padding: 2px
+}
+
+.button{
+	size: 18px;
+	border-radius: 20px;
+	text-transform:lowercase;
+	color: #302384;
+	background: #02f9ff78
+	
+}
